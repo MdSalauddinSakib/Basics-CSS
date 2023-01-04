@@ -1,0 +1,36 @@
+.header{
+    height: 200px;
+    background-image: url('mountain.jpg');
+    /* background-image: url(../ybu.jpg); */
+    /* background-image: url(../images/Developer/n\,kzlg\ m.JPG); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    font-family: 'Actor', sans-serif;
+    color: whitesmoke;
+    background-color: green;
+    background-blend-mode: multiply;
+}
+
+h3{
+    color: magenta;
+    text-decoration:underline wavy green;
+    
+}
+
+p{
+    color: blueviolet;
+}
+
+.page-title{
+    font-weight: 700;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: brown;
+}
+a{
+    text-decoration: none;
+}
+.blog{
+    background-color: pink;
+    box-shadow: 20px 10px 10px blueviolet;
+}

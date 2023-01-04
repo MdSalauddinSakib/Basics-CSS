@@ -1,0 +1,17 @@
+li{
+    color: chocolate;
+}
+
+ul li{
+    color: purple;
+    display: inline;
+}
+span{
+    border: 3px solid pink;
+    height: 100px; 
+    width: 75%;   
+    margin-left: 30px;
+    /* margin-top: 500px;  This tag will not work inline */
+    display:inline-block;
+    display: none;
+}
